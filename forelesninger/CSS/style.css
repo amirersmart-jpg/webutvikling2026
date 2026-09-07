@@ -19,5 +19,9 @@ article::first-child {
 .siste-artikkel {
     background-color: bisque;
 }
+input[type=" passwoed"] {
+    border: 2px red;
+    border-;
+}
  
 
